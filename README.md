@@ -4,6 +4,8 @@ A **100% Client-Side** web application for securely viewing and editing metadata
 
 Designed specifically to be static and hosted on platforms like GitHub Pages, meaning all processing happens offline right on your machine. **Your files never leave your browser.**
 
+Link to GitHub Pages: [Link](https://ominoko.github.io/word-metadata-editor/)
+
 ![Preview Placeholder](img/main_preview.png)
 
 ## Features
@@ -30,3 +32,4 @@ Because of strict client-side limitations, older compound binary files (like `.d
 
 ## License
 MIT License. Free to use, fork, and distribute.
+
